@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dmain{
+    color: skyblue;
+    font-size: 52px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+    color: black;
+    font-size: larger;
+}
+
+body{ 
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh
+}
+.header{
+    text-align: center;
+    font-size: 40px;
+}
+.factbox{
+    font-size: larger;
+    color: seashell;
+}
+.speech{
+    background-color:pink;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+.fact1{
+    padding-left: 0%;
+}
+img {
+    width: 35%;
+    height: auto;
+}
+.jod{
+    padding: right;
+    float: left;
+    background: ;
+    padding-left: 50px;
+    padding-right: 230px;
+    border-radius: round;
+    border-style: groove;
+}
