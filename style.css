@@ -1,5 +1,5 @@
 *{
-    padding: 0;
+    padding: 0; 
     margin: 0;
 }
 .dmain{
@@ -7,18 +7,14 @@
     font-size: 52px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-}
-p{
-    color: black;
+}p{
+    color: white;
     font-size: larger;
 }
-
 body{ 
-    background-color: white;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh
+background-color: rgb(4, 4, 26);
+    
+    
 }
 .header{
     text-align: center;
@@ -27,11 +23,13 @@ body{
 .factbox{
     font-size: larger;
     color: seashell;
+
 }
 .speech{
-    background-color:pink;
-    color: black;
+    background-color:black;
+    color: #ffffff;
     text-align: center;
+
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 10px;
@@ -39,19 +37,25 @@ body{
     margin-right: -10px;
     margin-left: -10px;
 }
-.fact1{
-    padding-left: 0%;
-}
+
 img {
     width: 35%;
-    height: auto;
+    height: 35%;
+    padding-left: 30%;
+    
 }
 .jod{
-    padding: right;
+    
     float: left;
-    background: ;
+    background-color: rgb(95, 95, 165) ;
     padding-left: 50px;
-    padding-right: 230px;
+    padding-right: 300px;
     border-radius: round;
-    border-style: groove;
+    
+}
+.copyright{
+    text-align: center;
+    background-color: white;
+    color: black;
+    float: inline-end;
 }
